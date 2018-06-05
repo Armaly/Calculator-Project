@@ -1,0 +1,18 @@
+//Armaly Albert
+///4/8/14
+//TA:  
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
+import java.util.*;
+import java.io.*;
+import javax.swing.event.*;
+
+public class Calculator
+{
+private JButton add,subtract,mult,divide,equals,copyToF1,copyToF2;
+private JTextField f1,f2;
+private JLabel answer;
+
+}
+  
